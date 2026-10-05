@@ -1,0 +1,16 @@
+{
+  "name": "simple-node-api",
+  "version": "1.0.0",
+  "description": "Esta es la api de proyecto integral web",
+  "keywords": [],
+  "license": "ISC",
+  "author": "Luis Padilla",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}

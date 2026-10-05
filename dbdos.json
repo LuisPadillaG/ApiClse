@@ -1,0 +1,32 @@
+{
+  "deportes": [
+    {
+      "id": 1,
+      "nombre": "Fútbol",
+      "escenario": "Cancha de césped",
+      "dimensiones": "105m x 68m",
+      "numeroDeElementos": 11,
+      "equipo": {
+        "short": "Negro",
+        "playera": "Blanca",
+        "tacos": "Negros",
+        "medias": "Blancas"
+      },
+      "pais": "Inglaterra"
+    },
+    {
+      "id": 2,
+      "nombre": "Baloncesto",
+      "escenario": "Cancha de duela",
+      "dimensiones": "28m x 15m",
+      "numeroDeElementos": 5,
+      "equipo": {
+        "short": "Azul",
+        "playera": "Azul",
+        "tacos": "Tenis de bota",
+        "medias": "Negras"
+      },
+      "pais": "Estados Unidos"
+    }
+  ]
+}
